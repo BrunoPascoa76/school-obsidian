@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cm/cm/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/cm/cm/"}
 ---
 
 
